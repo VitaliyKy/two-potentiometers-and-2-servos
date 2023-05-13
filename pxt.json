@@ -1,10 +1,11 @@
 {
-    "name": "two potentiometers and 2 servos",
+    "name": "MAZE SPACE PROJECT",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "MakerBit-LCD1602": "github:1010technologies/pxt-makerbit-lcd1602#v1.8.10"
     },
     "files": [
         "main.blocks",
